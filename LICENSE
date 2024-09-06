@@ -1,21 +1,29 @@
-MIT License
+Novosta Custom License
 
 Copyright (c) 2024 Jacob Gallardo-Quintero
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, publish, and distribute the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Ownership
+   - The original author and owner of the Software is Jacob Gallardo-Quintero.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Permissions
+   2.1. Use: The Software may be used for any purpose, including personal and commercial use.
+   
+   2.2. Modification: Modifications to the Software are permitted, provided that proper credit is given to the original author for the underlying code.
+   
+   2.3. Distribution: Distribution of the Software and any modifications is allowed, as long as this license and attribution to the original author remain intact.
+   
+   2.4. Sublicensing: The Software may not be sublicensed under any other terms or licenses.
+   
+   2.5. Selling: The Software or any derivative works may not be sold as-is or as part of a product intended for sale.
+
+3. Conditions
+   3.1. Attribution: Proper attribution must be given to Jacob Gallardo-Quintero in any copies or substantial portions of the Software or derivative works.
+   
+   3.2. No Commercial Selling: The Software or any direct copies of it may not be sold, although it may be used as part of a larger project or work.
+   
+   3.3. Reverse Engineering: Users are allowed to study or reverse-engineer the Software for educational or developmental purposes, provided they follow the conditions of this license.
+
+4. Liability
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
